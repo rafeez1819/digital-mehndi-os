@@ -31,7 +31,7 @@ The interface is inspired by **Mehndi (henna art)** — intricate, alive, and pe
 │                   FRONTEND (HTML/JS)                │
 │  Mandala Canvas · VAD Sliders · Henna Vine · Avatar │
 └────────────────────┬────────────────────────────────┘
-                     │ WebSocket (ws://host/ws/emotion/)
+           WebSocket │  (ws://host/ws/emotion/)
 ┌────────────────────▼────────────────────────────────┐
 │              DJANGO CHANNELS (ASGI)                 │
 │  EmotionStreamConsumer  ←→  EmotionalKernel         │
