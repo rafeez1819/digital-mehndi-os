@@ -28,17 +28,16 @@ The interface is inspired by **Mehndi (henna art)** — intricate, alive, and pe
 
 ```
 ┌─────────────────────────────────────────────────────┐
-│                   FRONTEND (HTML/JS)                 │
-│  Mandala Canvas · VAD Sliders · Henna Vine · Avatar  │
+│                   FRONTEND (HTML/JS)                │
+│  Mandala Canvas · VAD Sliders · Henna Vine · Avatar │
 └────────────────────┬────────────────────────────────┘
                      │ WebSocket (ws://host/ws/emotion/)
 ┌────────────────────▼────────────────────────────────┐
-│              DJANGO CHANNELS (ASGI)                  │
-│  EmotionStreamConsumer  ←→  EmotionalKernel          │
-│         ↓                        ↓                   │
-│   SQLite Memory          Anthropic Claude API        │
-│   EmotionMemory          claude-sonnet-4-6           │
-│   EmotionalProfile                                   │
+│              DJANGO CHANNELS (ASGI)                 │
+│  EmotionStreamConsumer  ←→  EmotionalKernel         │
+│         ↓                        ↓                  │
+│   EmotionMemory          claude-sonnet-4-6          │
+│   EmotionalProfile                                  │
 └─────────────────────────────────────────────────────┘
 ```
 
