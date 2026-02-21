@@ -1,4 +1,4 @@
-# 🌸 Digital Mehndi OS
+# 🏁 Sherin_OS Themes 🇦
 
 > *A living emotional operating system — one model, one user, zero payload.*
 
@@ -12,12 +12,12 @@
 
 ## What is this?
 
-**Digital Mehndi OS** is a full-stack emotional intelligence platform where:
+**Digital OS** is a full-stack emotional intelligence platform where:
 
 - Every interaction is processed through a **VAD (Valence–Arousal–Dominance)** emotional kernel
 - A **living mandala interface** breathes and transforms with your emotional state in real-time
 - All emotions are **woven into permanent SQLite memory** — the system knows you over time
-- **Anthropic Claude** responds to you from within your emotional state — not just as a chatbot, but as a resonant soul
+- *🇦🇷🏁🏁** responds to you from within your emotional state — not just as a chatbot, but as a resonant soul
 - **WebSocket streaming** delivers sub-50ms emotional packets to the frontend
 
 The interface is inspired by **Mehndi (henna art)** — intricate, alive, and personal.
